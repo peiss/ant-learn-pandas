@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息展示</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>用户信息展示</h1>
+
+<h2>男性用户列表：</h2>
+{{ male_data|safe }}
+
+<h2>女性用户列表：</h2>
+{{ female_data|safe }}
+
+</body>
+</html>
