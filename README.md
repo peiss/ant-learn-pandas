@@ -6,6 +6,6 @@ pandas学习课程代码仓库
 http://www.iqiyi.com/a_19rrhyyqix.html
 
 
-同时，欢迎大家关注我的微信公众号，也会分享很多Python领域学习的视频
-关注：Python基础入门，爬虫、数据分析、大数据处理、机器学习、推荐系统等领域
+同时，欢迎大家关注我的微信公众号，也会分享很多Python领域学习的视频  
+关注：Python基础入门，爬虫、数据分析、大数据处理、机器学习、推荐系统等领域  
 ![蚂蚁学Python](other_files/weixin_gongzhonghao.jpg)
