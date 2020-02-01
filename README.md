@@ -10,5 +10,3 @@ http://www.iqiyi.com/a_19rrhyyqix.html
 关注：Python基础入门，爬虫、数据分析、大数据处理、机器学习、推荐系统等领域  
 
 公众号名字：蚂蚁学Python
-
-<img src="./other_files/weixin_gongzhonghao.jpg" />
