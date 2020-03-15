@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="916c0656-fe93-40de-989c-42bfbfe72870" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09. Pandas数据排序.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09. Pandas数据排序.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15. Pandas批量拆分与合并Excel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/15. Pandas批量拆分与合并Excel.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19. Pandas怎样对每个分组应用apply函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/19. Pandas怎样对每个分组应用apply函数.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="aeedf47f-e4c9-4fa6-81c1-7bda9470d41f" />
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -70,10 +74,17 @@
       <updated>1568214798616</updated>
       <workItem from="1568214801499" duration="762000" />
       <workItem from="1583052181564" duration="685000" />
+      <workItem from="1583968520820" duration="652000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="238" key="RollbackChangesDialog" timestamp="1583968568415">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="744" y="238" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583968568415" />
   </component>
 </project>
