@@ -8,6 +8,7 @@ pandas学习课程代码仓库
 ***公众号名字：蚂蚁学Python***
 
 ***视频全集地址：https://github.com/peiss/ant-learn-pandas***
+
 ***如果购买了视频套餐，加我微信ant_learn_python，必定答疑！！！***
 
 
