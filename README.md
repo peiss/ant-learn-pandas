@@ -2,7 +2,7 @@
 pandas学习课程代码仓库
 
 
-***视频全集地址：https://github.com/peiss/ant-learn-pandas***
+***视频全集地址：https://www.iqiyi.com/a_19rrhyyqix.html***
 
 ***如果购买了视频套餐，加我微信ant_learn_python，必定答疑！！！***
 
