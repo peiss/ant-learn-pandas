@@ -1,6 +1,8 @@
 # ant-learn-pandas
 pandas学习课程代码仓库
 
+***注意注意：代码迁移至国内Gitee：https://gitee.com/antpython/ant-learn-pandas***
+
 
 ***视频全集地址：https://www.iqiyi.com/a_19rrhyyqix.html***
 
